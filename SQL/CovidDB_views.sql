@@ -1,3 +1,5 @@
+-- Made using SQlite and data from https://ourworldindata.org/covid-deaths --
+
 SELECT
 	location
 	, date
